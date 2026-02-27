@@ -27,6 +27,7 @@ Foi implementada uma Rede Neural Artificial (Multilayer Perceptron) com a seguin
 
 ## 🚀 Como Executar
 1. Certifique-se de ter o arquivo `2023_Yellow_Taxi_Trip_Data_20260225.csv` no diretório raiz.
-2. Instale as dependências:
+2. Endereço: https://data.cityofnewyork.us/Transportation/2023-Yellow-Taxi-Trip-Data/4b4i-vvec/about_data
+3. Instale as dependências:
    ```bash
    pip install -r requirements.txt
